@@ -1,4 +1,8 @@
 # Projekt Pieca
+
+KOD Programu
+
+
 ```
 #include <avr/io.h>
 #include <util/delay.h>
@@ -75,6 +79,9 @@ DDRB |= LED;
 }
 
 ```
+
+Opis działania
+
 
 Wykonałem kod wzorując sie na  
 http://radzio.dxp.pl/hd44780/
