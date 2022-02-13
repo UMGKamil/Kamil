@@ -76,7 +76,7 @@ DDRB |= LED;
 
 ```
 
-Wykonałem kod wzoryjąc sie na  
+Wykonałem kod wzorując sie na  
 http://radzio.dxp.pl/hd44780/
 Przerobiłem ją tak ,aby używać potrzebnych mi portów
 Mam  wyświetlacz na którym w 1 linijce pokazuje się
