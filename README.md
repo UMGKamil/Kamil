@@ -73,3 +73,13 @@ DDRB |= LED;
 		}
 }
 
+
+Wykonałem kod wzoryjąc sie na  
+http://radzio.dxp.pl/hd44780/
+przerobiłem ją tak , aby porty które używam.
+Mam  wyświetlacz na którym w 1 linijce pokazuje się
+aktualna temperatura pieca ( bo jest to sterownik do pompy pieca
+i linijkę niżej jest temperatura którą ustawia się tamtymi dwoma przyciskami
+zakres regulacji od 25 stopni do 80 stopni
+jeżeli temperatura pieca przekroczy zakres niższej wartości zacznie się praca pompy cyrkulacyjnej
+zastosowanie jest takie żeby pompa nie chodziła cały czas tylko wtedy jak już jest rozpalone w piecu
